@@ -1,0 +1,21 @@
+
+.fields input{
+  margin: 10px;
+}
+
+.startButton button{
+  width: 100px;
+	height: 50px;
+	background: red;
+}
+
+.timerView input{
+  height: 30px;
+  width: 30px;
+  margin: 5px;
+}
+
+#currentTime{
+  height: auto;
+  width: auto;
+}
